@@ -1,4 +1,3 @@
-Here's a well-structured `README.md` for your Medical Chatbot project, including setup instructions, usage, and important details about the project:
 
 
 # Medical Chatbot with LangChain and HuggingFace
