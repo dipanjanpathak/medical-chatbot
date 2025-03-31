@@ -1,6 +1,6 @@
 Here's a well-structured `README.md` for your Medical Chatbot project, including setup instructions, usage, and important details about the project:
 
-```markdown
+
 # Medical Chatbot with LangChain and HuggingFace
 
 A conversational AI assistant designed to answer medical questions using the GALE Encyclopedia of Medicine as a knowledge base. Built with LangChain, HuggingFace models, and FAISS for efficient document retrieval.
