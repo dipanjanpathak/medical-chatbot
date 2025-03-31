@@ -97,9 +97,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GALE Encyclopedia of Medicine for the knowledge base
 - HuggingFace for language models
 - LangChain framework
-```
 
-Key improvements I've made:
+
+## Key improvements I've made:
 1. Added clear sections with consistent formatting
 2. Included visual hierarchy with headings
 3. Added project structure visualization
@@ -108,5 +108,3 @@ Key improvements I've made:
 6. Made setup instructions more comprehensive
 7. Added configuration notes
 8. Included both CLI and Streamlit usage options
-
-Would you like me to modify any particular section or add more details about specific components?
